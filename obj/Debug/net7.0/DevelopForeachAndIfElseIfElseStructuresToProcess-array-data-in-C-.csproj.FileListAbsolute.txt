@@ -1,0 +1,15 @@
+/workspaces/DevelopForeachAndIfElseIfElseStructuresToProcess-array-data-in-C-/bin/Debug/net7.0/DevelopForeachAndIfElseIfElseStructuresToProcess-array-data-in-C-
+/workspaces/DevelopForeachAndIfElseIfElseStructuresToProcess-array-data-in-C-/bin/Debug/net7.0/DevelopForeachAndIfElseIfElseStructuresToProcess-array-data-in-C-.deps.json
+/workspaces/DevelopForeachAndIfElseIfElseStructuresToProcess-array-data-in-C-/bin/Debug/net7.0/DevelopForeachAndIfElseIfElseStructuresToProcess-array-data-in-C-.runtimeconfig.json
+/workspaces/DevelopForeachAndIfElseIfElseStructuresToProcess-array-data-in-C-/bin/Debug/net7.0/DevelopForeachAndIfElseIfElseStructuresToProcess-array-data-in-C-.dll
+/workspaces/DevelopForeachAndIfElseIfElseStructuresToProcess-array-data-in-C-/bin/Debug/net7.0/DevelopForeachAndIfElseIfElseStructuresToProcess-array-data-in-C-.pdb
+/workspaces/DevelopForeachAndIfElseIfElseStructuresToProcess-array-data-in-C-/obj/Debug/net7.0/DevelopForeachAndIfElseIfElseStructuresToProcess-array-data-in-C-.csproj.AssemblyReference.cache
+/workspaces/DevelopForeachAndIfElseIfElseStructuresToProcess-array-data-in-C-/obj/Debug/net7.0/DevelopForeachAndIfElseIfElseStructuresToProcess-array-data-in-C-.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DevelopForeachAndIfElseIfElseStructuresToProcess-array-data-in-C-/obj/Debug/net7.0/DevelopForeachAndIfElseIfElseStructuresToProcess-array-data-in-C-.AssemblyInfoInputs.cache
+/workspaces/DevelopForeachAndIfElseIfElseStructuresToProcess-array-data-in-C-/obj/Debug/net7.0/DevelopForeachAndIfElseIfElseStructuresToProcess-array-data-in-C-.AssemblyInfo.cs
+/workspaces/DevelopForeachAndIfElseIfElseStructuresToProcess-array-data-in-C-/obj/Debug/net7.0/DevelopForeachAndIfElseIfElseStructuresToProcess-array-data-in-C-.csproj.CoreCompileInputs.cache
+/workspaces/DevelopForeachAndIfElseIfElseStructuresToProcess-array-data-in-C-/obj/Debug/net7.0/DevelopForeachAndIfElseIfElseStructuresToProcess-array-data-in-C-.dll
+/workspaces/DevelopForeachAndIfElseIfElseStructuresToProcess-array-data-in-C-/obj/Debug/net7.0/refint/DevelopForeachAndIfElseIfElseStructuresToProcess-array-data-in-C-.dll
+/workspaces/DevelopForeachAndIfElseIfElseStructuresToProcess-array-data-in-C-/obj/Debug/net7.0/DevelopForeachAndIfElseIfElseStructuresToProcess-array-data-in-C-.pdb
+/workspaces/DevelopForeachAndIfElseIfElseStructuresToProcess-array-data-in-C-/obj/Debug/net7.0/DevelopForeachAndIfElseIfElseStructuresToProcess-array-data-in-C-.genruntimeconfig.cache
+/workspaces/DevelopForeachAndIfElseIfElseStructuresToProcess-array-data-in-C-/obj/Debug/net7.0/ref/DevelopForeachAndIfElseIfElseStructuresToProcess-array-data-in-C-.dll
